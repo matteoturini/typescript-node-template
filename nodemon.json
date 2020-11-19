@@ -1,0 +1,6 @@
+{
+  "$schema": "https://rawcdn.githack.com/SchemaStore/schemastore/2f8fceeb2dcf6c9d3dd36a494c2fd0ba3fe493f0/src/schemas/json/nodemon.json",
+  "exec": "tsc && node dist/index.js",
+  "watch": ["src/"],
+  "ext": "js,ts,json,mjs"
+}
